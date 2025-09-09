@@ -1,1 +1,28 @@
+1. System Objectives
 
+Our project, the Community Disaster Risk Response System (CDRRS), is made to help people and responders during disasters. It will give the community quick alerts, allow them to report emergencies, and provide important safety information in one place. For responders and officials, it helps track supplies, manage rescue efforts, and see real-time updates to respond faster and better.
+
+2. Proposed Scope
+
+What the system will include:
+- Creating accounts and logging in (for admins, responders, and community members).
+- Sending disaster alerts and notifications (through text, email, or app).
+- Reporting incidents like floods, fires, or earthquakes.
+- Showing maps with safe zones, evacuation centers, and reported incidents.
+- Managing relief goods, medical supplies, and rescue teams.
+- Messaging feature for responders and community members to communicate.
+- Generating reports to see incident trends and resource use.
+
+3. Stakeholders
+
+Community Members – people in the area who will receive alerts, report incidents, and get safety info.
+Responders/Rescue Teams – those who will manage reports, coordinate rescue efforts, and check resources.
+Local Government Officials – they will oversee the system, check reports, and make decisions for disaster response.
+
+4. Tools/Technologies
+
+For the website/app look (frontend): HTML, CSS, JavaScript, Angular or React.
+For the system’s brain (backend): Node.js, Django, or Laravel.
+For storing data: MySQL, PostgreSQL, or Firebase.
+For maps: Google Maps API.
+For sending alerts: Firebase Cloud Messaging.
